@@ -1,3 +1,6 @@
 [submodule "Assets/YellowTape/AudioEngine"]
 	path = Assets/YellowTape/AudioEngine
 	url = https://github.com/YevheniiKost/AudioEngine.git
+[submodule "Assets/YellowTape/Utilities"]
+	path = Assets/YellowTape/Utilities
+	url = https://github.com/YevheniiKost/MyUtilities
